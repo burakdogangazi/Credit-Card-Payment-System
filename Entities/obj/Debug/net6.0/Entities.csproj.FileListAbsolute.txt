@@ -1,0 +1,59 @@
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\ref\Entities.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\ref\Entities.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\Entities\obj\Debug\net6.0\ref\Entities.dll

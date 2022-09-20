@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccess",
+    "\\KrediKartiOdeme",
+    "\\KrediKartiOdeme\\obj",
+    "\\KrediKartiOdeme\\obj\\Debug",
+    "\\KrediKartiOdeme\\obj\\Release",
+    "\\MockBanks"
+  ],
+  "SelectedNode": "\\MockBanks\\BankValidationResult.cs",
+  "PreviewInSolutionExplorer": false
+}

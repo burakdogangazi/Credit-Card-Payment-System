@@ -1,0 +1,85 @@
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.pdb
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Users\oaykir\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7fcadea-afc8-4997-ab08-d61137c22d47": {
+      "ProjectGuid": "e7fcadea-afc8-4997-ab08-d61137c22d47",
+      "DisplayName": "KrediKartiOdeme",
+      "ColorIndex": 0
+    },
+    "af9aa7c9-8e98-4109-8e12-8fc49cbf12ef": {
+      "ProjectGuid": "af9aa7c9-8e98-4109-8e12-8fc49cbf12ef",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "6df76d8d-06c6-4645-92f1-ac011b513460": {
+      "ProjectGuid": "6df76d8d-06c6-4645-92f1-ac011b513460",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e65c9e61-2a7d-46c8-8e9c-3c22316c3f7c": {
+      "ProjectGuid": "e65c9e61-2a7d-46c8-8e9c-3c22316c3f7c",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    },
+    "e7684294-d6cb-4b23-bc09-9369bc2fd8b5": {
+      "ProjectGuid": "e7684294-d6cb-4b23-bc09-9369bc2fd8b5",
+      "DisplayName": "MockBanks",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

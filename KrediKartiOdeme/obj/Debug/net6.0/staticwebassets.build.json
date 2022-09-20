@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "fnjjr4kAvgVzWJZanudbD3Mn+gI2dwV62Hq6hd+UB48=",
+  "Source": "KrediKartiOdeme",
+  "BasePath": "_content/KrediKartiOdeme",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KrediKartiOdeme\\wwwroot",
+      "Source": "KrediKartiOdeme",
+      "ContentRoot": "C:\\Users\\Burak\\Desktop\\Staj\\KrediKart\\KrediKartiOdeme - Auth Identity\\KrediKartiOdeme\\wwwroot\\",
+      "BasePath": "_content/KrediKartiOdeme",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Burak\\Desktop\\Staj\\KrediKart\\KrediKartiOdeme - Auth Identity\\KrediKartiOdeme\\wwwroot\\confirmemail.html",
+      "SourceId": "KrediKartiOdeme",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Burak\\Desktop\\Staj\\KrediKart\\KrediKartiOdeme - Auth Identity\\KrediKartiOdeme\\wwwroot\\",
+      "BasePath": "_content/KrediKartiOdeme",
+      "RelativePath": "confirmemail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\confirmemail.html"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfoInputs.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfo.cs
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.CoreCompileInputs.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.deps.json
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\ref\MockBanks.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.pdb
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.AssemblyReference.cache
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\ref\MockBanks.dll
+D:\Users\oaykir\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.pdb
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.deps.json
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\ref\MockBanks.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.pdb
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.AssemblyReference.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfoInputs.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfo.cs
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.CoreCompileInputs.cache
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\ref\MockBanks.dll
+C:\Users\stj_gizemk\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.pdb
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.deps.json
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.pdb
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfo.cs
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\refint\MockBanks.dll
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.pdb
+C:\Users\Burak\Desktop\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\ref\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.deps.json
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\bin\Debug\net6.0\MockBanks.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\refint\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\MockBanks.pdb
+C:\Users\Burak\Desktop\Staj\KrediKartiOdeme\MockBanks\obj\Debug\net6.0\ref\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\bin\Debug\net6.0\MockBanks.deps.json
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\bin\Debug\net6.0\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\bin\Debug\net6.0\MockBanks.pdb
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\MockBanks.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\MockBanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\MockBanks.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\MockBanks.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\refint\MockBanks.dll
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\MockBanks.pdb
+C:\Users\Burak\Desktop\Staj\KrediKart\KrediKartiOdeme - Auth Identity\MockBanks\obj\Debug\net6.0\ref\MockBanks.dll
